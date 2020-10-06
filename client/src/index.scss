@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import "./styles/app.scss";
+@import "./styles/form.scss";
+@import "./styles/text-input.scss";
+@import "./styles/textarea.scss";
+@import "./styles/button.scss";
+@import "./styles/review-list.scss";
+@import "./styles/review.scss";
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

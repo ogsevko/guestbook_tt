@@ -1,0 +1,20 @@
+.text-input {
+  font-size: 20px;
+  text-align: center;
+
+  &__field {
+    width: 30vw;
+    padding: 0.75vw;
+    margin: 1vw;
+
+    border: 1px solid black;
+    border-radius: 1vw;
+
+    font-size: 20px;
+    outline: none;
+
+    &:focus {
+      box-shadow: 0 3px 8px rgba(61, 78, 97, 0.2);
+    }
+  }
+}

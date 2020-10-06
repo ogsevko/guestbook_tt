@@ -1,0 +1,25 @@
+.review {
+  display: block;
+  width: 30vw;
+  padding: 1vw;
+  margin: 1vw;
+
+  border: 1px solid black;
+  border-radius: 1vw;
+
+  transition: transform 0.5s;
+
+  &__heading {
+    font-size: 20px;
+    margin: 0.25vh 0;
+  }
+
+  &__text {
+    font-size: 17px;
+    margin: 0.5vh 0;
+  }
+
+  &:hover {
+    transform: scale(1.2);
+  }
+}

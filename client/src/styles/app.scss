@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &__heading {
+    font-size: 45px;
+  }
+
+  &__records {
+    margin: 5vh 0 0;
+  }
+}
