@@ -9,3 +9,6 @@ This is a guestbook application
 - Node.js
 - Express.js
 - MongoDB
+
+```npm run dev```
+Launch the project in development mode
