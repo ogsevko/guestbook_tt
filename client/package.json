@@ -6,7 +6,6 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "glob": "^7.1.6",
     "mkdirp": "^1.0.4",
     "node-fetch": "^2.6.1",
     "react": "^16.13.1",
@@ -45,6 +44,7 @@
     "@mate-academy/linthtml-config": "0.0.1",
     "@mate-academy/stylelint-config": "0.0.9",
     "eslint-plugin-node": "^11.1.0",
+    "glob": "^7.1.6",
     "node-sass": "^4.14.1",
     "stylelint": "^13.7.2"
   }
