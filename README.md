@@ -10,5 +10,5 @@ This is a guestbook application
 - Express.js
 - MongoDB
 
-```npm run dev```
+## ```npm run dev```
 Launch the project in development mode
